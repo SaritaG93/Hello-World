@@ -1,9 +1,0 @@
-git config --global user.name "saritaG93"
-git congif --global user.email "saritaghadge93@gmail.com"
-git config --list
-git clone ----//copy link//--
-cd ---//name of the file//--(directory of folder)
-ls ---//add & show ongoing folder directory//---
-git add .
-git commit -m "--//data to add//--
-git push
